@@ -47,6 +47,7 @@ button,
 textarea {
   /*A unidade 'rem' eh muito utilizada para criar apps responsivos*/
   font: 500 1.6rem Poppins;
+  color: var(--color-text-base);
 }
 
 .container {
